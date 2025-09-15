@@ -1,0 +1,18 @@
+.exam-session-table .ant-table-thead > tr > th {
+  background-color: #fafafa;
+  font-weight: 600;
+}
+.exam-session-table .ant-table-tbody > tr:hover > td {
+  background-color: #f0f9ff;
+}
+.exam-session-table .ant-table-body {
+  overflow-x: auto;
+  overflow-y: visible;
+}
+.exam-session-table .ant-table-body::-webkit-scrollbar {
+  display: none;
+}
+.exam-session-table .ant-table-body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
