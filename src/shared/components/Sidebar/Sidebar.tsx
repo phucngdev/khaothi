@@ -33,7 +33,7 @@ import { SignOut } from '@phosphor-icons/react';
 import { Button, Layout, Menu, MenuProps, Modal } from 'antd';
 import { Link, useNavigate } from 'react-router-dom';
 import './Sidebar.scss';
-import logo from '#/assets/images/RE_logo.png';
+import logo from '#/assets/images/re_logo.png';
 import Cookies from 'js-cookie';
 
 const { Sider } = Layout;
